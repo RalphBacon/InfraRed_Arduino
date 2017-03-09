@@ -1,5 +1,5 @@
 # InfraRed_Arduino
-Control your Arduino with InfraRed
+Control your Arduino with InfraRed - see video #77 here https://www.youtube.com/c/RalphBacon
 
 Imagine the front panel of your Arduino (or Pi) project with no buttons! This IR unit can give you that and just requires some simple code logic to interpret the codes sent from the transmitter to carry out push button or switch action you might want.
 
